@@ -1,0 +1,9 @@
+Modules name :-
+                Flask           2.2.2
+                
+                twilio          7.16.2
+                bootstrap       5.3-alpha1
+                html            5
+                css             3
+                javascript      ES6
+
